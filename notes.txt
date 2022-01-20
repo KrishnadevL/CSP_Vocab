@@ -1,0 +1,51 @@
+binary - a numerical system comprised entirely of 1's and 0's that computers use as both data and instructions
+
+hexadecimal - a base-16 numerical system, often used to compact binary data for a human programmer
+
+bit - an individual digit in binary, a 'binary digit'
+
+nibble - 4 bits strung together
+
+byte - 8 bits strung together, two nibbles
+
+lossless compression - an algorithm which can reduce the storage space required for a piece of information (such as an image) without actually removing data
+
+lossy compression - an algorithm which relies on removing or modifying data to achieve a lower storage space
+
+metadata - data about other data, such as date or location of creation
+
+computer network - a set of computers that can communicate to one another as part of the same network
+
+parallel/distributed computing - dividing portions of a computationally intensive task to be computed by multiple computers simultaneously working on different sections
+
+protocol - a specified, standardized procedure for operating with data on a computer network, usually pertaining to its transmission over the internet
+
+tcp/ip model - a model of the internet which divides the transmission of data into 4 basic layers (application, transport, internet, and network access)
+
+GET/POST - two http methods used to transmit data; GET uses urls to communicate information, while POST transmits the information directly to the server
+
+MVC - model-view-controller, a way of architecting databases. the model is the "center" and actually contains the data/performs CRUD on the data, view is any visualization of the data for a human user, controller is the interface throughout which commands are issued to the model
+
+CRUD - create, read, update, destroy, four fundamental operations that querying languages can perform on databases
+
+fetch - javascript method used to retrieve data from a remote server, typically within the context of an API
+
+async - javascript keyword that enables a function to operate "asynchronously" and anticipate the arrival of data from a server
+
+rest - parameters that allow functions to accept as many arguments as they want
+
+api - application programming interface, a service that allows applications and websites to directly communicate data to one another
+
+object oriented programming - programming oriented around "objects", which are collections of data held in "attributes" that are derived from a "class" template
+
+class - a basic template for creating an object in OOP, defines the attributes and types
+
+methods - function-like reusable portions of code designed specifically to be called on objects in OOP
+
+functions - reusable portions of code that can be called with different arguments (or inputs) to produce possibly varying results
+
+data abstraction - "simplifying" a program by encapsulating or using certain functionalities in a fashion that is concerned solely with their purpose, not their means ("what", not "how") without changing the underlying program's operation. functions are a common example of abstraction.
+
+linear search - going "from A to Z" through a list, starting at the first indice and ending at the last, or when the desired entry has been located.
+
+binary search - an efficient searching algorithm for sorted lists that selects the indice halfway through the list, compares it to the desired value, and then places another halfway mark between the center and the side of the last where the data is located, repeating the process until the data is found, halving the list with each iteration
