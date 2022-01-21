@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 # Binary/Hexadecimal, Bit, Nibble, Byte
 ## Binary/Hexadecimal 
 
