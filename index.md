@@ -9,4 +9,4 @@ This site reviews the CSP concepts that have been covered in the Tri 2 of Comput
 |2|[Data, Data Abstraction](https://krishnadevl.github.io/CSP_Vocab/content/data)|
 |3|[Lossless, Lossy Compression](https://krishnadevl.github.io/CSP_Vocab/content/lossy)|
 |4|[Metadata](https://krishnadevl.github.io/CSP_Vocab/content/meta)|
-
+|5|[Computer Network, Parallel/Distributed computing](https://krishnadevl.github.io/CSP_Vocab/content/network)|
