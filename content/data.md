@@ -7,7 +7,7 @@
 **Data** - Infromation processed and stored by the computer. This can range from images to text files. 
 
 **Data Abstraction** - "simplifying" a program by encapsulating or using certain functionalities in a fashion that is concerned solely with their purpose, not their means ("what", not "how") without changing the underlying program's operation. Functions are a common example of abstraction.
-**Bit** - A bit represents a one digit binary value of either 0 or 1. 
+
 
 ### Examples
 
