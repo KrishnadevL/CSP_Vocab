@@ -6,4 +6,5 @@ This site reviews the CSP concepts that have been covered in the Tri 2 of Comput
 | Number | Vocabulary Set | 
 |--| --- | 
 |1|[Binary/Hexadecimal, Bit, Nibble, Byte](https://krishnadevl.github.io/CSP_Vocab/binary)|
+|2|[Data, Data Abstraction](https://krishnadevl.github.io/CSP_Vocab/data)|
 
