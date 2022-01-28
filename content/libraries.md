@@ -1,6 +1,9 @@
 {% include navigation.html %}
 
 # Library, Dependencies, Import
+
+![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fajaytech.co%2Fwp-content%2Fuploads%2F2019%2F05%2Fpython_standard_libraries-1.png)
+
 ## Library
 Libraries are collections of functions that you can use in your own program, usually the functions within the same library are related and work as a combined program.  There are generally more of them in higher-level languages like python and less in lower-level languages like C.
 
